@@ -28,3 +28,4 @@ Currently seeking a remote-first data analyst role where I can contribute, grow,
 ---
 
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/gskartados)
+📄 [View My Resume](./George_Skartados CV.pdf)
