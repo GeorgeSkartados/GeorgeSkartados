@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George
 
-Aspiring Data Analyst | Python • SQL • Tableau • Power BI  
+Data Analyst | Python • SQL • Tableau • Power BI  
 Remote-first | IBM Certified | Open to relocation
 
 ---
