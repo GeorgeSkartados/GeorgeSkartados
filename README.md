@@ -1,40 +1,49 @@
-# 👋 Hi, I'm George
+# 👋 Hi, I'm George — Data Analyst (Python | SQL | Power BI)
 
-**Data Analyst / Data Scientist (Python | SQL | Power BI)**  
-Remote-first • IBM Certified • Mission-driven • Open to relocation  
+Remote-first · IBM Certified · Energy + AI Focus · Open to Relocation  
+🌐 Portfolio: https://george-skartados-qev6q2j.gamma.site/
 
 ---
 
-### 🚀 What I'm Building
-- End-to-end analytics tools that turn raw data into real-world impact.  
-- AI-powered systems that automate insights and drive better decisions.  
-- Clean-energy forecasting models that help teams move toward a sustainable future.  
+### 🚀 What I Build
+I create analytics systems that turn raw data into forecasting, automation, and decision-making tools.  
+My focus areas:
+- Clean-energy forecasting and time-series modeling  
+- Machine learning for anomaly detection and risk reduction  
+- End-to-end dashboards that deliver clarity—not noise  
 
 ---
 
 ### 📊 Featured Projects
-- **[⚡ Solar Energy Forecasting Dashboard](https://github.com/GeorgeSkartados/solar-energy-forecasting)**  
-  Time-series forecasting of UK solar generation using Prophet & Power BI — complete data pipeline from ingestion to visualization.
 
-- **[🛡️ Credit Card Fraud Detection](https://github.com/GeorgeSkartados/Credit-Card-Fraud-Detection)**  
-  Machine learning classification models (SMOTE + Logistic Regression + Random Forest) achieving 98% accuracy for anomaly detection.
+- **⚡ Energy Demand Forecasting (NEW)**  
+  30-day time-series forecast using Prophet. Includes data cleaning, EDA, forecasting, and visuals.  
+  👉 [GitHub](https://github.com/GeorgeSkartados/data-center-energy-dashboard)
 
-- **[📱 Google Play Store App Analysis](https://github.com/GeorgeSkartados/Google-Play-Store-Apps-Analysis)**  
-  Exploratory data analysis and dashboard insights on app trends, pricing models, and user engagement.
+- **☀️ Solar Energy Forecasting Dashboard**  
+  Time-series forecast of UK solar generation + Power BI dashboard.  
+  👉 [GitHub](https://github.com/GeorgeSkartados/solar-energy-forecasting)
+
+- **🛡️ Credit Card Fraud Detection**  
+  ML classification models (SMOTE, Logistic Regression, Random Forest) — 98% accuracy on imbalanced data.  
+  👉 [GitHub](https://github.com/GeorgeSkartados/Credit-Card-Fraud-Detection)
+
+- **📱 Google Play Store App Analysis**  
+  Exploratory analysis and insights on app ratings, pricing models, and user behavior.  
+  👉 [GitHub](https://github.com/GeorgeSkartados/Google-Play-Store-Apps-Analysis)
 
 ---
 
 ### 💡 About Me
-I’m George — a data analyst who **translates complexity into clarity**.  
-Using **Python, SQL, and Power BI**, I turn messy datasets into systems that tell a story — helping organizations forecast smarter, detect risk earlier, and operate more efficiently.
+I’m a Data Analyst who turns messy data into clear insights. Using SQL, Python, Power BI, and ML fundamentals, I build systems that help teams forecast demand, detect risk early, and operate more efficiently.  
+My experience across **IBM, BCG, Lloyds, Quantium, and Tata** taught me one principle: powerful analytics comes from simplicity, structure, and execution.
 
-My experience through **IBM, Quantium, BCG, Lloyds, and Tata** taught me that great analytics isn’t about more data — it’s about sharper focus. Whether it’s optimizing renewable-energy output or uncovering inefficiencies in business processes, I build tools that move ideas from concept to execution.
-
-I’m most excited about the intersection of **AI, clean energy, and automation** — where intelligent data systems can make our world cleaner, faster, and more secure.
+I’m most interested in the intersection of **clean energy, automation, and AI**—where data has the power to make real-world impact.
 
 ---
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gskartados)  
-or explore my work right here on GitHub.
+📫 Connect:  
+- LinkedIn: https://www.linkedin.com/in/gskartados  
+- Portfolio: https://george-skartados-qev6q2j.gamma.site/
 
 *“Data without direction is noise — my mission is to turn it into strategy.”* ⚔️
