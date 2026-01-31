@@ -6,7 +6,7 @@ Remote-first · IBM Certified · Energy + AI Focus · Open to Relocation
 ---
 
 ### 🚀 What I Build
-I create analytics systems that turn raw data into forecasting, automation, and decision-making tools.  
+I create analytics systems that turn raw data into clear forecasts, operational metrics, and decision-support tools.  
 My focus areas:
 - Clean-energy forecasting and time-series modeling  
 - Machine learning for anomaly detection and risk reduction  
@@ -36,9 +36,9 @@ My focus areas:
 
 ### 💡 About Me
 I’m a Data Analyst who turns messy data into clear insights. Using SQL, Python, Power BI, and ML fundamentals, I build systems that help teams forecast demand, detect risk early, and operate more efficiently.  
-My experience across **IBM, BCG, Lloyds, Quantium, and Tata** taught me one principle: powerful analytics comes from simplicity, structure, and execution.
-
-I’m most interested in the intersection of **clean energy, automation, and AI**—where data has the power to make real-world impact.
+Through hands-on projects and simulations inspired by IBM, BCG, Lloyds, Quantium, and Tata, I learned one core principle: powerful analytics comes from simplicity, structure, and execution.
+I’m most interested in the intersection of **clean energy, automation, and AI**—where data has the power to make real-world impact. 
+I focus on building simple, explainable analyses that teams can actually use—not over-engineered solutions.
 
 ---
 
@@ -46,4 +46,4 @@ I’m most interested in the intersection of **clean energy, automation, and AI*
 - LinkedIn: https://www.linkedin.com/in/gskartados  
 - Portfolio: https://george-skartados-qev6q2j.gamma.site/
 
-*“Data without direction is noise — my mission is to turn it into strategy.”* ⚔️
+*“Data without direction is noise — my mission is to turn it into strategy.”* 
