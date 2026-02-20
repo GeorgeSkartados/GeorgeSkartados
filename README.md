@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George — Data Analyst (Python | SQL | Power BI)
 
-Remote-first · IBM Certified · Energy + AI Focus · Open to Relocation  
+IBM Certified · Energy + AI Focus · Open to Relocation  
 🌐 Portfolio: https://george-skartados-qev6q2j.gamma.site/
 
 ---
