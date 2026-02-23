@@ -44,6 +44,6 @@ I focus on building simple, explainable analyses that teams can actually use—n
 
 📫 Connect:  
 - LinkedIn: https://www.linkedin.com/in/gskartados  
-- Portfolio: https://george-skartados-qev6q2j.gamma.site/
+- Portfolio: https://george-skartados-qev6q2j.gamma.site/george-skartados
 
 *“Data without direction is noise — my mission is to turn it into strategy.”* 
