@@ -10,7 +10,7 @@ I create analytics systems that turn raw data into clear forecasts, operational 
 My focus areas:
 - Clean-energy forecasting and time-series modeling  
 - Machine learning for anomaly detection and risk reduction  
-- End-to-end dashboards that deliver clarity—not noise  
+- End-to-end dashboards that deliver clarity not noise  
 
 ---
 
@@ -46,4 +46,4 @@ I focus on building simple, explainable analyses that teams can actually use—n
 - LinkedIn: https://www.linkedin.com/in/gskartados  
 - Portfolio: https://george-skartados-qev6q2j.gamma.site/george-skartados
 
-*“Data without direction is noise — my mission is to turn it into strategy.”* 
+*“Data without direction is noise. My mission is to turn it into strategy.”* 
